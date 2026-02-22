@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ravi Kumar pursuing B.Tech from IIT Patna under department of<br>Computer Science and Engineering specialization in Artificial Intelligence and Data Science.<br>I am exploring the fields of development with the curiosity of learning new things each day.<br>
+I am Ravi Kumar pursuing B.Tech from IIT Patna under department of<br>Computer Science and Engineering specialization in Artificial Intelligence and Data Science.<br>I am exploring the fields of development with the curiosity of learning new things every day.<br>
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-31b205329/)
